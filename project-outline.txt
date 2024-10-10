@@ -1,0 +1,4 @@
+1) Field to Job Description
+2) Upload PDF
+3) PDF to Image ---> Preprocessing --> Google Gemini Pro
+4) Prompt Templates [Multiple Prompt]
